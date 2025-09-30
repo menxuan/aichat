@@ -1,9 +1,9 @@
 {
   "name": "aichat",
-  "description": "A simple chat application powered by Cloudflare Workers AI",
+  "description": "A simple chat application powered by aluo Workers AI",
   "private": true,
   "cloudflare": {
-    "label": "LLM Chat App",
+    "label": "aluo Chat App",
     "products": [
       "Workers",
       "Workers AI",
